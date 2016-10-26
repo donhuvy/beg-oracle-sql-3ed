@@ -1,4 +1,5 @@
-alter session
-set   nls_date_format='dd-mm-yyyy'
-      nls_language=Dutch
-      nls_currency='Eur';
+ALTER SESSION
+SET NLS_DATE_FORMAT = 'dd-mm-yyyy'
+    NLS_LANGUAGE = Dutch
+    NLS_CURRENCY = 'Eur';
+--------------------------------------------------------------------------------    
